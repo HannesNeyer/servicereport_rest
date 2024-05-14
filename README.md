@@ -1,1 +1,0 @@
-Projekt starten: npm run dev
